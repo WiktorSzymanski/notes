@@ -1,3 +1,4 @@
+# DEB vs RPM
 #SRC #Sem1 #ZSK #wykład 
 
 DEB -> konwencje nazewnicze pakietów

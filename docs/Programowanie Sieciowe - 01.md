@@ -1,3 +1,4 @@
+# Programowanie Sieciowe - 01
 Deskryptor serwera służy do nawiązywania połączeina z klientami, dla każdego połączonego klienta tworzony jest nowy deskryptor
 
 `nc serwer port`

@@ -1,3 +1,4 @@
+# Zarządzanie oprogramowaniem
 #SRC #Sem1 #ZSK #wykład 
 #### Problemy
 - Instalacja

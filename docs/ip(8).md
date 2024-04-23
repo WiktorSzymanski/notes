@@ -1,3 +1,4 @@
+# ip(8)
 #SRC #Sem1 #PS
 
 Komenda systemowa `ip(8)` umożliwia manipulowanie wszystkimi tablicami routingu w systemie.

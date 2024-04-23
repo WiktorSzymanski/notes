@@ -1,3 +1,4 @@
+# HTTP 2
 ### Google: SPDY
 ---
 > Celem było przyśpieszenie HTTP głównie poprzez redukcję opóźnień oraz poprawę bezpieczeństwa. SPDY nie zastępuje HTTP, zmienia on sposób przesyłania żądań w sieci.

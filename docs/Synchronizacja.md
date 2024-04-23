@@ -1,3 +1,4 @@
+# Synchronizacja
 #SRC #Sem1 #MBP #wyklad
 Wzorce synchronizacji:
 - Atomicity:

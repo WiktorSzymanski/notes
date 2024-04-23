@@ -1,3 +1,4 @@
+# Gniazda Sieciowe PF_NETLINK
 #SRC #Sem1 #PS 
 
 [[Gniazda Sieciowe]] `PF_NETLINK` umożliwiają wymianę informacji (komunikatów) pomiędzy jądrem systemu operacyjnego a procesami przestrzeni użytkownika.

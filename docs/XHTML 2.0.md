@@ -1,3 +1,4 @@
+# XHTML 2.0
 #SRC #Sem1 #TIWPR #wykład #w2 
 
 - Zerwanie z kompatybilnością wsteczną

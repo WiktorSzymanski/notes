@@ -1,3 +1,4 @@
+# Gniazda Sieciowe
 #SRC #Sem1 #PS #wykład 
 
 Gniazda Sieciowe są traktowane przez system operacyjny jako pliki specjalne. Aby korzystać z mechanizmu komunikacji internetowej wymagane jest utworzenie gniazda sieciowego.

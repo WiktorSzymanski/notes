@@ -1,3 +1,4 @@
+# Problem z zależnościami
 #SRC #Sem1 #ZSK #wykład 
 
 (ang. Dependency hell)

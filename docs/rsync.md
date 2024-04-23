@@ -1,3 +1,4 @@
+# rsync
 #SRC #Sem1 #ZSK 
 - Protokół i program do synchronizacji zawartości dwóch (rozproszonych) plików
 - Optymalizacja

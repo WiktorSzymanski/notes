@@ -1,3 +1,4 @@
+# Gentoo Portage
 #SRC #Sem1 #ZSK #wyklad 
 
 #### Flagi USE

@@ -1,3 +1,4 @@
+# Przekazywanie wiadomości (komunikatów)
 #SRC #Sem1 #NPR #wykład 
 
 - Niejawne

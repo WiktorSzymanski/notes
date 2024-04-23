@@ -1,3 +1,4 @@
+# RADIUS
 #SRC #Sem1 #BSR #lab2
 
 to protokół AAA (Authentication-Authorization-Accounting). Zapewnia scentralizowane uwierzytelnianie, autoryzację oraz rozliczanie użytkowników w środowisku sieciowym.

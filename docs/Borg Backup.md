@@ -1,3 +1,4 @@
+# Borg Backup
 #SRC #Sem1 #ZSK 
 
 - Deduplikacja na poziomie fragmentów plików (_chunks_)

@@ -1,3 +1,4 @@
+# socket(2)
 #SRC #Sem1 #PS #wykład 
 
 

@@ -1,3 +1,4 @@
+# QUIC
 Szybkie połączenie internetowe przez UDP. Wymyślone przez google, w celu obejścia TCP. Ponieważ implementacja QUIC jako surowe gniazdo wymagała by uprawnień _root_-a do korzystania z tego protokołu lub wszystkie systemy operacyjne musiałby by dodać go do listy protokołów, zaimplementowali QUIC tak aby wykorzystywał UDP, a co za tym idzie nie wymaga rozwiązania żadnego z wyżej wymienionych problemów.
 
 Pierwotnie (2012): Quick UDP Internet Connections, aka TCP/2

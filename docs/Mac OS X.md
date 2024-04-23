@@ -1,3 +1,4 @@
+# Mac OS X
 #SRC #Sem1 #ZSK #wykład 
 
 - Pakiety DMG (Disk iMaGe)

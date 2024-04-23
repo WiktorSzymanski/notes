@@ -1,3 +1,4 @@
+# Archiwizacja a wirtualizacja
 #SRC #Sem1 #ZSK 
 
 - Klasyczna archiwizacja

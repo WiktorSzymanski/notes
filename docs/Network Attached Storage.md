@@ -1,3 +1,4 @@
+# Network Attached Storage
 - Pamięć masowa z systemem plików
 - Udostępnanie poprzez Ethernet po protokołach CIFS, NFS, HTTP, [[Rsync]]
 - Jak [[Storage Area Network]] ale na Ethernet

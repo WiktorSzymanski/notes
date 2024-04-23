@@ -1,3 +1,4 @@
+# Pakiet rdiff-backup
 #SRC #Sem1 #ZSK 
 
 - Składowanie oddzielnych danych i metadanych

@@ -1,3 +1,4 @@
+# Zdalne Wywoływanie Procedur
 #SRC #Sem1 #NPR #wykład 
 
 Przeźroczystość dostępu - ukrycie komunikacji sieciowej przed aplikacją przez odpowiednie opakowanie funkcji komunikacyjnych namiastą klienta oraz serwera

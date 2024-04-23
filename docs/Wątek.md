@@ -1,3 +1,4 @@
+# Wątek
 #SRC #Sem1 #MBP #wyklad 
 - Każdy wątek ma swój stos
 - Jednak spólna sterta (ang. _Heap_)

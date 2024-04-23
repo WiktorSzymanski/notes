@@ -1,3 +1,4 @@
+# EtherType
 #SRC #Sem1 #PS #wykład
 
 to liczba dwu-bajtowa wykorzystywana w ramach [[Warstwa Łącza Danych|warstwy łącza danych]] do określania transportowanego protokołu warstwy sieciowej.

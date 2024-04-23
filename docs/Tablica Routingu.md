@@ -1,3 +1,4 @@
+# Tablica Routingu
 #SRC #Sem1 #PS
 
 Tablica routingu zawiera adresy `IP` sąsiednich (tj. działających w tej samej sieci `IP`) routerów, przez które wiedzie trasa do oddalonych (tj. niedostępnych bezpośrednio) sieci `IP`.

@@ -1,3 +1,4 @@
+# sockaddr_ll
 #SRC #Sem1 #PS 
 
 Struktura `sockaddr_ll` jest odpowiednikiem `sockaddr_in` w gniazdach podstawowych dla [[Gniazda Sieciowe PF_PACKET|gniazd PF_PACKET]]. Opisuje adresy warstwy łącza danych i jest wykorzystywana podczas transmitowania i odbierania ramek oraz podczas wiązania gniazda sieciowego z adresem przy użyciu funkcji systemowej` bind(2)`.

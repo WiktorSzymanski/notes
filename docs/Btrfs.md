@@ -1,3 +1,4 @@
+# Btrfs
 #SRC #Sem1 #ZSK 
 
 Pewne rzeczy wykonuje w tle na wątkach jątra systemu. Stąd działanie niektórych operacji widać po jakimś czasie.

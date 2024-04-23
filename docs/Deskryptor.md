@@ -1,3 +1,4 @@
+# Deskryptor
 #SRC #Sem1 #PS
 
 Deskryptor to liczba (`int`) do której jest dowiązanie symboliczne do i-węzła.

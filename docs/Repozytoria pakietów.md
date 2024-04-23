@@ -1,3 +1,4 @@
+# Repozytoria pakietów
 #SRC #Sem1 #ZSK #wykład 
 
 - Rodzaje repozytoriów

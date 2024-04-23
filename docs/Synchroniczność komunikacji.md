@@ -1,3 +1,4 @@
+# Synchroniczność komunikacji
 #SRC #Sem1 #NPR #wykład 
 #### Synchroniczna
 - Przejściowa synchroniczna z potwierdzeniem odebrania

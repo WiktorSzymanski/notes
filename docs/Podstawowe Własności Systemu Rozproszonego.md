@@ -1,3 +1,4 @@
+# Podstawowe Własności Systemu Rozproszonego
 #SRC #Sem1 #NPR #wykład 
 
 - Współdzielenie/współużytkowanie zasobów (sprzętu, danych)

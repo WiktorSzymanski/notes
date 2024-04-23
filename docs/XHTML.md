@@ -1,3 +1,4 @@
+# XHTML
 #SRC #Sem1 #TIWPR #wykład 
 
 Wprowadzono podział na 28 modułów aby usprawnić rozwój poszczególnych funkcjonalności. Modularyzacja pozwala łączyć XHTML z np. MathML. 

@@ -1,3 +1,4 @@
+# Patch RPM
 #SRC #Sem1 #ZSK #wykład 
 
 - Optymalizacja aktualizacji pakietów

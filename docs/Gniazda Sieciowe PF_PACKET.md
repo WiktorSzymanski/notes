@@ -1,3 +1,4 @@
+# Gniazda Sieciowe PF_PACKET
 #SRC #Sem1 #PS 
 
 W systemach operacyjnych gnu/Linux istnieją dwa mechanizmy systemowe umożliwiające dostęp do warstwy łącza danych: 

@@ -1,3 +1,4 @@
+# AppImage
 #SRC #Sem1 #ZSK #wyklad 
 
 Nie wymaga uprawnień administratora, bo montujemy przez mechanizm FUSE. Wiemy że działa ale kosztem jest rozmiar aplikacji, bo nie korzystamy ze współdzielonych bibliotek.

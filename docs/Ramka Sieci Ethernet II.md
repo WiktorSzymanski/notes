@@ -1,3 +1,4 @@
+# Ramka Sieci Ethernet II
 #SRC #Sem1 #PS 
 
 Preambuła była wysyłana by odbiorca ramki mógł się synchronizować. Wielkość ramki nie mogła być mniejsza niż 64B. Zostało obliczone, że właśnie taką wielkość musi mieć ramka aby móc wykrywać kolizje.

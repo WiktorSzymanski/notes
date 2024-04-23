@@ -1,3 +1,4 @@
+# Paradygmat Interakcji Pomiędzy Zdalnymi Jednostkami
 #SRC #Sem1 #NPR #wykład 
 - Dostęp do spólnej przestrzeni (pamięć)
 - [[Przekazywanie wiadomości (komunikatów)]]

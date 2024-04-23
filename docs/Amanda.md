@@ -1,3 +1,4 @@
+# Amanda
 #SRC #Sem1 #ZSK
 To centralny serwer z oprogramowaniem klienckim na archiwizowanych komputerach. Wykorzystuje standardowe narzędzia i formaty.
 

@@ -1,3 +1,4 @@
+# Service Oriented Architecture
 #SRC #Sem1 #TIWPR #wykład #w2 
 
 to architektura tworzenia aplikacji biznesowych przez dynamiczne luźne powiązania interfejsów usług, implementacja ich funkcjonalności oraz realizajca wywołań ich operacji. Ma to na celu pokonanie barier języków programowania i tworzenie dynamicznej sieci usług.

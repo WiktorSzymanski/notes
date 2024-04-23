@@ -1,3 +1,4 @@
+# Trwałość Komunikacji
 #SRC #Sem1 #NPR #wykład 
 
 #### Komunikacja przejściowa

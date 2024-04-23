@@ -1,3 +1,4 @@
+# Pakiety Oprogramowania
 #SRC #Sem1 #ZSK #wykład
 
 - Podział oprogramowania na komponenty

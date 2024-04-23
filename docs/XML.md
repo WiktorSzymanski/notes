@@ -1,3 +1,4 @@
+# XML
 #SRC #Sem1 #TIWPR #wykład 
 
 Uproszczona o zbyt specyficzne właściwości SGML. Nie rozróżnia znaczników, jedyne co jest ważne to zagnieżdzenia. Niezbędna jest definicja wyświetlania. Widziany w ten sam sposób przez człowieka i maszynę. Stosowany nie tylko do aplikacji webowych ale także do wymiany/przekazywania danych. Wymusza UNICODE. Aplikacja XML - język opisywany przez XML. Wymusza pewną strukturę, trzeba zamykać znaczniki. 

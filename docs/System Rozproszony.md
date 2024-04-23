@@ -1,3 +1,4 @@
+# System Rozproszony
 #SRC #Sem1 #NPR #wykład
 
 [[Podstawowe Własności Systemu Rozproszonego]]

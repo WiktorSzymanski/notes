@@ -1,3 +1,4 @@
+# Pamięć Podręczna Protokołu ARP
 #SRC #Sem1 #PS 
 
 Pamięć poręczna protokołu `ARP` (ang. _ARP cache_) przechowuje odwzorowania adresów `IP` w adresy [[Warstwa Łącza Danych|warstwy łącza danych]] (np. adresy `MAC`), które protokół ten dotychczas rozwiązał.
